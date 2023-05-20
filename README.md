@@ -1,6 +1,6 @@
-# Login - Register
+# Login-Register HTML-CSS Project
 
-## What I Practice
+## What I Used
 
 - Made using html and css
 
